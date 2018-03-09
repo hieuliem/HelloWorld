@@ -1,2 +1,2 @@
 # HelloWorld
-Very First GIT
+Very First GIT Project
