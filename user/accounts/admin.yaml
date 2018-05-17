@@ -1,0 +1,11 @@
+email: hieuliem2005@gmail.com
+fullname: 'Liem Do'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$kpywVMqohOTOSpLUaJ6TaOZ0W0oucuFK0HHFL/kz4pXBpmw.F.CNG
