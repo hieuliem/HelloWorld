@@ -9,9 +9,11 @@ content:
 body_classes: landing-page
 creator: admin
 icon: '<i class="material-icons">home</i>'
-yt_channel: zMdNqG3TV6c
-showcase_subtitle: 'Pasion of the Christ'
-button_text: 'Via Dolorosa'
+yt_channel_: zMdNqG3TV6c
+callout: https://thanhca.chungnhan.org
+showcase_title: Phụng Vụ Thánh Ca
+showcase_subtitle: 'Thánh Vinh Đáp Ca Trong Tuần'
+button_text: 'thanhca.chungnhan.org'
 form:
     name: contact-form
     action: /home
