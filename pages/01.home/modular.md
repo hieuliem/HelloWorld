@@ -11,6 +11,7 @@ creator: admin
 icon: '<i class="material-icons">home</i>'
 yt_channel_: zMdNqG3TV6c
 callout: https://thanhca.chungnhan.org
+callout_bg:  notes.png
 showcase_title: Phụng Vụ Thánh Ca
 showcase_subtitle: 'Thánh Vinh Đáp Ca Trong Tuần'
 button_text: 'thanhca.chungnhan.org'
