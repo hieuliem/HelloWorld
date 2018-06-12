@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'thanghoa.jpg,CT.jpg,Easter2018.jpg,aovang.jpg,dangTG_MC.jpg'
+media_order: 'thanghoa.jpg,CT.jpg,Easter2018.jpg,aovang.jpg,dangTG_MC.jpg,notes.png'
 content:
     items: '@self.modular'
     order:
@@ -10,11 +10,11 @@ body_classes: landing-page
 creator: admin
 icon: '<i class="material-icons">home</i>'
 yt_channel_: zMdNqG3TV6c
-callout: https://thanhca.chungnhan.org
-callout_bg:  notes.png
-showcase_title: Phụng Vụ Thánh Ca
+callout: 'https://thanhca.chungnhan.org'
+callout_bg: notes.png
+showcase_title: 'Phụng Vụ Thánh Ca'
 showcase_subtitle: 'Thánh Vinh Đáp Ca Trong Tuần'
-button_text: 'thanhca.chungnhan.org'
+button_text: thanhca.chungnhan.org
 form:
     name: contact-form
     action: /home
