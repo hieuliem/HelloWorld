@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'moving_1.jpg,nhatrong.jpg,nhatrong_1.jpg,moving.jpg,thanghoa.jpg,CT.jpg,Easter2018.jpg,aovang.jpg,dangTG_MC.jpg,notes.png'
+media_order: 'moving_1.jpg,thanghoa.jpg,CT.jpg,Easter2018.jpg,aovang.jpg,dangTG_MC.jpg,notes.png,P1210039.jpg'
 content:
     items: '@self.modular'
     order:
