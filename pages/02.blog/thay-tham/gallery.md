@@ -1,5 +1,5 @@
 ---
-title: 'Sinh Hoạt Giáo Xứ - Thay Thảm'
+title: 'Bảo Trì Giáo Xứ - Thay Thảm'
 date: '10-06-2018 22:56'
 taxonomy:
     category:
