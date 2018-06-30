@@ -11,4 +11,9 @@ body_classes: profile-page
 creator: admin
 ---
 
-[plugin:youtube](https://youtu.be/ngrNw-_Koxw)[plugin:youtube](https://youtu.be/tEA3NqFZPnw)
+<table>
+	<tr>
+        <td>[plugin:youtube](https://youtu.be/ngrNw-_Koxw)</td>
+        <td>[plugin:youtube](https://youtu.be/tEA3NqFZPnw)</td>
+    </tr>
+</table>
