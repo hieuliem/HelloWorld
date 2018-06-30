@@ -8,6 +8,8 @@ taxonomy:
     tag:
         - photography
 body_classes: profile-page
+simple-responsive-tables:
+    active: true
 creator: admin
 ---
 
