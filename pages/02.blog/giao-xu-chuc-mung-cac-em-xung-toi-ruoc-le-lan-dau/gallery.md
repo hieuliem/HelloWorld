@@ -13,5 +13,5 @@ simple-responsive-tables:
     active: false
 ---
 
-<div class="embed-responsive embed-responsive-16by9">[plugin:youtube](https://youtu.be/ngrNw-_Koxw)</div>
-<div class="embed-responsive embed-responsive-16by9">[plugin:youtube](https://youtu.be/tEA3NqFZPnw)</div>
+[plugin:youtube](https://youtu.be/ngrNw-_Koxw)
+[plugin:youtube](https://youtu.be/tEA3NqFZPnw)
