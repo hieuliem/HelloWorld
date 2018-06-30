@@ -10,7 +10,7 @@ taxonomy:
 body_classes: profile-page
 creator: admin
 simple-responsive-tables:
-    active: true
+    active: false
 ---
 
 <table>
