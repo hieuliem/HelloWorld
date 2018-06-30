@@ -13,26 +13,14 @@ simple-responsive-tables:
     active: false
 ---
 
-<table>
-	<tr>
-        <td>[plugin:youtube](https://youtu.be/ngrNw-_Koxw)</td>
-        <td>[plugin:youtube](https://youtu.be/tEA3NqFZPnw)</td>
-    </tr>
-</table>
 <div class="section section-examples">
 	<div class="container-fluid text-center">
 		<div class="section row">
 			<div class="col-md-6">
             <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="//www.youtube.com/embed/o6Lu5IRGIbc?rel=0"></iframe>
-            </div>
-            <button class="btn btn-link btn-primary btn-lg">Tháng Hoa 2018</button>
-            </div>
-            <div class="col-md-6">
+                [plugin:youtube](https://youtu.be/ngrNw-_Koxw)</div>
             <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="//www.youtube.com/embed/oEh63MhIq5o?rel=0"></iframe>
-            </div>
-            <button class="btn btn-link btn-primary btn-lg">Kinh Ca Ngợi - TE DEUM</button>
-            </div>
-		</div>
+                [plugin:youtube](https://youtu.be/tEA3NqFZPnw)</div>
+        </div>
+	</div>
 </div>
