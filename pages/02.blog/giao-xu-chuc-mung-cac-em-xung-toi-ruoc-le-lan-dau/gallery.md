@@ -24,4 +24,3 @@ simple-responsive-tables:
     		</div>
         </div>
 	</div>
-</div>
