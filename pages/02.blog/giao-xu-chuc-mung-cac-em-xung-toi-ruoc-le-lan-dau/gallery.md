@@ -11,7 +11,4 @@ body_classes: profile-page
 creator: admin
 ---
 
-<div class="row">
-	<div class="col-md-5">[plugin:youtube](https://youtu.be/ngrNw-_Koxw)</div>
-    <div class="col-md-5">[plugin:youtube](https://youtu.be/tEA3NqFZPnw)</div>
-</div>
+[plugin:youtube](https://youtu.be/ngrNw-_Koxw)[plugin:youtube](https://youtu.be/tEA3NqFZPnw)
