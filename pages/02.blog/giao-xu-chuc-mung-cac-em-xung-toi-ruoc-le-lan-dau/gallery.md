@@ -13,14 +13,5 @@ simple-responsive-tables:
     active: false
 ---
 
-<div class="section section-examples">
-	<div class="container-fluid text-center">
-		<div class="section row">
-			<div class="col-md-5">
-            	<div class="embed-responsive embed-responsive-16by9">[plugin:youtube](https://youtu.be/ngrNw-_Koxw)</div>
-    		</div>
-            <div class="col-md-5">
-            	<div class="embed-responsive embed-responsive-16by9">[plugin:youtube](https://youtu.be/tEA3NqFZPnw)</div>
-    		</div>
-        </div>
-	</div>
+<div class="embed-responsive embed-responsive-16by9">[plugin:youtube](https://youtu.be/ngrNw-_Koxw)</div>
+<div class="embed-responsive embed-responsive-16by9">[plugin:youtube](https://youtu.be/tEA3NqFZPnw)</div>
