@@ -14,7 +14,7 @@ creator: admin
 			</div>
 		</div>
 </div>
-![](city_bw.jpg?classes=img-fluid)
+![](banner_2.png?classes=img-fluid)
 <div class="col-md-12 text-center">
 	<a href="about" class="showmore" target="_self">Trang Giáo Xứ <i class="material-icons">near_me</i></a>
 </div>
