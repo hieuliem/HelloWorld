@@ -7,6 +7,7 @@ taxonomy:
     tag:
         - photography
         - video
+body_classes: profile-page
 creator: admin
 ---
 
