@@ -1,5 +1,5 @@
 ---
-title: 'Bảo Trì Giáo Xứ - Diễn Tiến'
+title: 'Bảo Trì Giáo Xứ - Diễn Tiến Hoàn Chỉnh'
 date: '30-06-2018 21:41'
 taxonomy:
     category:
