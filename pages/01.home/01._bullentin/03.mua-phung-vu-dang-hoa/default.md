@@ -1,11 +1,10 @@
 ---
-title: 'Múa phụng vụ dâng hoa'
+title: 'CHƯƠNG TRÌNH PHÓ TẾ VĨNH VIỄN GIÁO PHẬN.'
 creator: admin
 ---
 
-**thời gian khoảng từ 5-7 phút**: Chúa Nhật lễ 2 (sau lời nguyện kết lễ)
+**Thứ Sáu ngày 7/9 vào lúc 5:00PM**, tại Nhà Thờ Đức Mẹ Lộ Đức (Our lady of Lourdes) 8200 Woodman Road, Richmond. Giáo phận Richmond có Thánh Lễ đón nhận các ứng sinh vào chương trình học Phó Tế Vĩnh Viễn (Permanent Diaconate) trong đó có Thầy Đỗ Hiếu Liêm và Thầy Lê Viết Hoàng.
+ 
+**Thứ Bẩy ngày 15/9 vào lúc 10:30AM**, Thầy Giuse Trần Ngọc Thoại sẽ chịu chức Phó tế Vĩnh Viễn cùng với 19 thầy khác tại Nhà Thờ Chánh Tòa Thánh Tâm (the Cathedral of the Sacred Heart)  800 S Cathedral Pl, Richmond, VA 23220. Sau đó, ngày Chúa Nhật 16/9, trong Thánh Lễ 2 (10:30AM) Thầy Phó Tế Giuse cùng với gia đình và Cộng đoàn Tạ ơn Thiên Chúa. 
 
-- **Khai mạc**: Chúa Nhật đầu tháng ngày 6/5/2018
-	Phụ trách: Các Bà Mẹ Công Giáo
-- **Kết thúc**: Chúa Nhật cuối tháng ngày 27/5/2018
-	Phụ trách: Các gia đình (Trách nhiệm: Quý Sơ)
+Chúng ta chúc mừng và cầu nguyện nhiều cho quý Thầy trong dịp hồng phúc này.
