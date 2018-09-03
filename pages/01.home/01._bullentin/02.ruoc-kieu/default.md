@@ -1,15 +1,8 @@
 ---
-title: 'Rước Kiệu'
+title: 'KHAI GIẢNG NĂM HỌC 2018-2019'
 creator: admin
 ---
 
-Sau Thánh lễ Thứ Bẩy 8:00PM
-
-Khi đi rước kiệu, các hội đoàn mặc đồng phục, đi theo Hội Đoàn cùng với cờ hiệu của mình, theo thứ tự sau đây:
-Thánh Giá và nến chầu – Thiếu nhi Thánh Thể - Tông đồ Fatima – Huynh Đoàn Đa Minh – Các Bà Mẹ Công Giáo –
-Liên Minh Thánh Tâm – Hiệp Sĩ Đoàn – Cha chủ sự - Kiệu Đức Mẹ - Cộng đoàn (Cờ của các hội đoàn để tại cửa
-bên sang Hội trường. Khi xướng tên hội đoàn, người cầm cờ đi ra lối đi giữa Nhà Thờ và các hội viên ra khỏi hang
-ghế và theo ngay sau cờ hội đoàn)
-
-* Khai mạc: Thứ Bẩy đầu tháng ngày 5/5/2018
-* Kết thúc: Thứ Bẩy cuối tháng ngày 26/5/2018
+**Trường Thánh Vinh Sơn Liêm khai giảng Năm học mới 2018-2019**: Sau Thánh lễ 1 (Lễ 8:00 AM) vào lúc 9:30AM Chúa Nhật ngày 9/9 tại Nhà Thờ. Sau nghi thức khai giảng, các em nhận lớp cùng với quý phụ huynh. Tại lớp học các giảng viên sẽ trình bày lịch trình năm học cũng như nội quy Nhà Trường. Các phụ huynh phải có mặt trong ngày khai giảng này, để cùng đồng hành với trường Thánh Vinh Sơn Liêm hướng dẫn Đức Tin và Việt Ngữ cho các em.
+ 
+**Nghi Thức Ủy Nhiệm Giảng Viên Trường Thánh Vinh Sơn Liêm**: Vào Thánh Lễ 2 (10:30AM) Chúa Nhật ngày 23/9.  Các Giảng Viên phải có mặt trong Nghi Thức này.
