@@ -3,7 +3,7 @@ title: 'line callout'
 creator: admin
 ---
 
-![](../../user/pages/01.home/02._highlights/TT.png?classes=img-fluid)
+![](../../user/pages/01.home/02._highlights/banner_2.png?classes=img-fluid)
 <div class="">
 		<div class="container text-center">
 			<div class="row">
@@ -14,7 +14,7 @@ creator: admin
 			</div>
 		</div>
 </div>
-![](banner_2.png?classes=img-fluid)
+![](city_bw.jpg?classes=img-fluid)
 <div class="col-md-12 text-center">
 	<a href="about" class="showmore" target="_self">Trang Giáo Xứ <i class="material-icons">near_me</i></a>
 </div>
