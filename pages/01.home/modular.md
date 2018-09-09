@@ -9,8 +9,10 @@ content:
 body_classes: landing-page
 creator: admin
 icon: '<i class="material-icons">home</i>'
-yt_channel_: zMdNqG3TV6c
-callout: 'https://thanhca.chungnhan.org'
+youtube_title: 'Live Stream'
+youtube_subtitle: Testing
+yt_channel: 0eT8kViJG1I
+callout: ''
 callout_bg: notes.png
 showcase_title: ''
 showcase_subtitle: 'Thánh Vinh Đáp Ca Trong Tuần'
