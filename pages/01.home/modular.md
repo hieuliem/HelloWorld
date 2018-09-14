@@ -9,14 +9,14 @@ content:
 body_classes: landing-page
 creator: admin
 icon: '<i class="material-icons">home</i>'
-youtube_title: 'Live Stream'
-youtube_subtitle: Testing
-yt_channel: 0eT8kViJG1I
+yt_channel: UCiySdBJvYT0DPgUe34Z-yzw
+yt_video: 6iv2ihcotJs
+future_countdown: 'Sept 16, 2018 10:30:00'
 callout: ''
 callout_bg: notes.png
-showcase_title: ''
-showcase_subtitle: 'Thánh Vinh Đáp Ca Trong Tuần'
-button_text: thanhca.chungnhan.org
+showcase_title: 'Thánh Lễ Tạ Ơn'
+showcase_subtitle: 'Phó Tế Trần Ngọc Thoại'
+button_text: Live Stream
 form:
     name: contact-form
     action: /home
