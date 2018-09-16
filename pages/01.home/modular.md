@@ -10,7 +10,7 @@ body_classes: landing-page
 creator: admin
 icon: '<i class="material-icons">home</i>'
 yt_channel: UCiySdBJvYT0DPgUe34Z-yzw
-yt_video: 6iv2ihcotJs
+yt_video: 9PoO6DQWDcY
 future_countdown: 'Sept 16, 2018 10:30:00'
 callout: ''
 callout_bg: notes.png
