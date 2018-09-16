@@ -1,6 +1,6 @@
 ---
-title: 'Trường Thánh VSL 2012'
+title: 'Ordination to the Diaconate'
 creator: admin
 ---
 
-xoc9Z0cGDIo
+wfDVXGdBMEg
