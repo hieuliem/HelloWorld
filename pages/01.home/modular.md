@@ -10,12 +10,12 @@ body_classes: landing-page
 creator: admin
 icon: '<i class="material-icons">home</i>'
 yt_channel: UCiySdBJvYT0DPgUe34Z-yzw
-yt_video: 9PoO6DQWDcY
-future_countdown: 'Sept 16, 2018 10:30:00'
+yt_video: 6U7h66ht5_U
+future_countdown: 'Oct 13, 2018 20:00:00'
 callout: ''
 callout_bg: notes.png
-showcase_title: 'Thánh Lễ Tạ Ơn'
-showcase_subtitle: 'Phó Tế Trần Ngọc Thoại'
+showcase_title: 'Thánh Lễ An Táng'
+showcase_subtitle: 'Cầu Cho Linh Hồn Maria'
 button_text: Live Stream
 form:
     name: contact-form
