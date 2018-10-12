@@ -16,7 +16,7 @@ callout: ''
 callout_bg: notes.png
 showcase_title: 'Thánh Lễ An Táng'
 showcase_subtitle: 'Cầu Cho Linh Hồn Maria'
-button_text: 'Live Stream'
+button_text: Live Stream
 form:
     name: contact-form
     action: /home
