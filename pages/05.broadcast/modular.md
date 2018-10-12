@@ -10,7 +10,7 @@ content:
             - _updates
 body_classes: profile-page
 cache_enable: false
-visible: false
+visible: true
 creator: admin
 yt: UCiySdBJvYT0DPgUe34Z-yzw
 fb: cvmrva
