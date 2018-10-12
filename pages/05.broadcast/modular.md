@@ -1,7 +1,5 @@
 ---
-title: !!binary VsSDbiBQaMMx
-yt: UCiySdBJvYT0DPgUe34Z-yzw
-fb: cvmrva
+title: 'Văn Ph�1'
 content:
     items: '@self.modular'
     order:
@@ -13,6 +11,8 @@ content:
 body_classes: profile-page
 cache_enable: false
 visible: false
+yt: UCiySdBJvYT0DPgUe34Z-yzw
+fb: cvmrva
 icon: '<i class="material-icons">description</i>'
 onpage_menu: false
 form:
@@ -79,5 +79,6 @@ form:
                 body: '{% include ''forms/data.txt.twig'' %}'
         -
             display: thank-you
+creator: admin
 ---
 
