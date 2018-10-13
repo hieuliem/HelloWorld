@@ -1,5 +1,5 @@
 ---
-title: 'Giáo xứ các Thánh Tử Đạo Việt Nam'
+title: 'Live Stream Broadcasting'
 media_order: 'church.png,church_00.jpg'
 body_classes: content
 menu: About
