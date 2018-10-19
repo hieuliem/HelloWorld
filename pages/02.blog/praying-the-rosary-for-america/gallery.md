@@ -1,5 +1,6 @@
 ---
 title: 'Praying the Rosary for America'
+publish_date: '13-10-2018 10:30'
 body_classes: profile-page
 creator: admin
 ---
