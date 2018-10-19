@@ -21,6 +21,7 @@ feed:
     description: 'Blog cua Giao xu'
     limit: 10
 pagination: true
+creator: admin
 ---
 
 Những thông tin, bài vở của Giáo xứ sẽ được cập nhật tại đây.
