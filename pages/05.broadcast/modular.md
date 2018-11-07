@@ -1,5 +1,5 @@
 ---
-title: Broadcasting
+title: Trực Tuyến
 content:
     items: '@self.modular'
     order:
