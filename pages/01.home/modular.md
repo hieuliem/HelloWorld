@@ -11,12 +11,12 @@ creator: admin
 icon: '<i class="material-icons">home</i>'
 yt_channel: UCiySdBJvYT0DPgUe34Z-yzw
 yt_video: 6U7h66ht5_U
-future_countdown: 'Oct 13, 2018 20:00:00'
+future_countdown: 'Nov 22, 2018 10:00:00'
 callout: ''
 callout_bg: notes.png
-showcase_title: 'Thánh Lễ An Táng'
-showcase_subtitle: 'Cầu Cho Linh Hồn Maria'
-button_text: Live Stream
+showcase_title: 'Thánh Lễ Tạ Ơn'
+showcase_subtitle: 'Bổn Mạng Giáo Xứ - 19 Năm Cung Hiến - Mùa Hè Hồng Ân'
+button_text: 'Live Stream'
 form:
     name: contact-form
     action: /home
