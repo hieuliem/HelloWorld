@@ -5,6 +5,7 @@ taxonomy:
         - blog
     tag:
         - 'Huấn Thư'
+body_classes: profile-page
 creator: admin
 ---
 
