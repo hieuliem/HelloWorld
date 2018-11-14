@@ -33,6 +33,5 @@ Chương trình truyền hình trực tiếp có tại trang Nhà Giáo xứ www
 Đức Thánh cha Bênêđictô XVI nói: Trong thế giới kỹ thuật số, cần phải rõ rằng ý định yêu thương của Thiên Chúa trong Chúa Kitô dành cho chúng ta không phải là một điều của quá khứ hay là một công trình thông thái, nhưng là một thực tại cụ thể và hiện thực. Quả thế, việc mục vụ trong thế giới kỹ thuật số làm cho con người của thời đại chúng ta, và cho nhân loại lầm lạc hôm nay, "thấy rằng Thiên Chúa gần gũi ; rằng trong Chúa Kitô, chúng ta hết thảy thuộc về nhau". (Benoît XVI, Diễn từ cho Giáo Triều Rôma dịp chúc lễ Giáng Sinh : Nhật báo Osservatore Romano bằng tiếng Pháp, ngày 21 /12/ 2009, tr.8). Rất mong quý Cộng Đoàn giới thiệu cho những người thân trong gia đình và các bạn bè không thể đến nhà thờ chương trình truyền hình trực tiếp này, để các anh chị em dược hiệp thông với Thiên Chúa Cộng Đoàn Dân Chúa trong Kinh nguyện và Thánh Lễ.
 
 
-Pax Domini,
-
+Pax Domini,<br>
 Fr. Nghieu Nguyen
