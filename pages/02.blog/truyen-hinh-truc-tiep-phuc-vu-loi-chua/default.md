@@ -1,5 +1,10 @@
 ---
 title: 'Truyền Hình Trực Tiếp Phục Vụ Lời Chúa'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - 'Huấn Thư'
 creator: admin
 ---
 
