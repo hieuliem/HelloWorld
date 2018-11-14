@@ -15,7 +15,7 @@ future_countdown: 'Nov 22, 2018 10:00:00'
 callout: ''
 callout_bg: notes.png
 showcase_title: 'Thánh Lễ Tạ Ơn'
-showcase_subtitle: 'Bổn Mạng Giáo Xứ - 19 Năm Cung Hiến - Mùa Hè Hồng Ân'
+showcase_subtitle: 'Bổn Mạng Giáo Xứ<br>19 Năm Cung Hiến<br>Mùa Hè Hồng Ân'
 button_text: 'Live Stream'
 form:
     name: contact-form
