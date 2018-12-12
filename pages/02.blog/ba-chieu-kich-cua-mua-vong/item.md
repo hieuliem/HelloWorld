@@ -7,6 +7,7 @@ taxonomy:
         - blog
     tag:
         - 'Tông Thư'
+        - 'Huấn Thư'
 body_classes: profile-page
 creator: admin
 ---
