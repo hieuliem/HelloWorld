@@ -27,3 +27,4 @@ Mùa Giáng Sinh nhắc người ta nhớ tới cuộc sinh hạ của Chúa, đ
 “Vì Thiên Chúa đã đến và Ngài sẽ lại đến. Ngài sẽ hỏi chúng ta: ´Cuộc sống của con đang diễn ra thế nào?` Đó sẽ là một cuộc gặp gỡ cá nhân. Và chiều kích thứ ba chính là cuộc sống hằng ngày: tỉnh thức. Tỉnh thức và cầu nguyện là hai cụm từ được dành cho Mùa Vọng. Vì Thiên Chúa đã đến trong lịch sử, tại Bê-lem, nên Ngài cũng sẽ đến, vào ngày Tận Thế, vào ngày tận cùng của cuộc sống mỗi cá nhân chúng ta. Nhưng Ngài cũng đang đến mỗi ngày, mỗi khoành khắc, trong con tim chúng ta, với sự linh hứng của Chúa Thánh Thần.”
 
 Theo vatican news – 03.12.2018, 10:25
+**Đa-minh Thiệu**
