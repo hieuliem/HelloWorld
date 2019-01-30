@@ -1,5 +1,12 @@
 ---
 title: 'Chương Trình Mừng Tết Nguyên Đán Kỷ Hợi'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - 'Huấn Thư'
+        - TET
+body_classes: profile-page
 creator: admin
 ---
 
