@@ -34,7 +34,7 @@ Tân Niên Kỷ Hợi An Khang và Thánh Đức.
  
 > Mặc dù các công việc có người phụ trách. Nhưng rất cần anh chị em mỗi người một tay giúp cho Hội Chợ Tết được tốt đẹp. Nhất là góp vui trong chương trình văn nghệ (Karaoke) 
  
-2/ Phụng vụ Tết: Tất cả các Thánh Lễ cử hành tại Nhà Thờ.
+**3/ Phụng vụ Tết: Tất cả các Thánh Lễ cử hành tại Nhà Thờ.**
  
 * Tạ ơn cuối năm Mậu Tuất (30 Tết):  Vào lúc 8:00PM,  ngày 4 tháng 2 năm 2019.
 	* Phụ trách Thánh ca: Ave Maria
@@ -50,13 +50,13 @@ Tân Niên Kỷ Hợi An Khang và Thánh Đức.
 	* Thu dọn cuối Nhà Thờ: Huynh Đoàn Đa Minh
 * Tất cả các ngày còn lại cử hành vào lúc 8:00AM
  
-3/ Giáo xứ Mừng Tết: 
-Vào lúc 10:30AM, Chúa Nhật ngày 10 tháng 2 năm 2019. Đức Cha Giáo Phận về thăm Giáo xứ và Mừng Tết (vẫn có Thánh Lễ lúc 8:00AM như thường lệ).
-Chủ sự Thánh Lễ: Đức Cha Barry C. Knestout
-Nghi Thức Tiến hương: Ban Tiến hương Giáo xứ
-Trao giải thưởng MVP cho Việt Ngữ và Lì xi cho các em thiếu nhi: Đức Cha Giáo Phận
-Ẩm thực Mừng Xuân: Các hội đoàn và phong trao trong Giáo xứ và Nhà Hàng Mê-Kông
-Tiệc Mừng Xuân: Ngay sau Thánh Lễ
+**4/ Giáo xứ Mừng Tết:** 
+* Vào lúc 10:30AM, Chúa Nhật ngày 10 tháng 2 năm 2019. Đức Cha Giáo Phận về thăm Giáo xứ và Mừng Tết (vẫn có Thánh Lễ lúc 8:00AM như thường lệ).
+* Chủ sự Thánh Lễ: Đức Cha Barry C. Knestout
+* Nghi Thức Tiến hương: Ban Tiến hương Giáo xứ
+* Trao giải thưởng MVP cho Việt Ngữ và Lì xi cho các em thiếu nhi: Đức Cha Giáo Phận
+* Ẩm thực Mừng Xuân: Các hội đoàn và phong trao trong Giáo xứ và Nhà Hàng Mê-Kông
+* Tiệc Mừng Xuân: Ngay sau Thánh Lễ
  
 * * * Để cho không khí Tết Nguyên Đán Kỷ Hợi mang đậm nét văn hóa dân tộc: Trong các Thánh lễ mồng 1, mồng 2, và mồng 6 Tết (ngày Đức Cha về thăm và mừng Tết) quý bà, quý chị nên mặc áo dài truyền thống, và nếu quý ông, quý anh có khăn đống áo dài cũng nên mặc trong những ngày này * * * 
 
