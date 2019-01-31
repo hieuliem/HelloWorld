@@ -40,8 +40,8 @@ Tân Niên Kỷ Hợi An Khang và Thánh Đức.
 	* Phụ trách Thánh ca: Ave Maria
 	* Thu dọn cuối Nhà Thờ: Liên Minh Thánh Tâm
 * Mồng 1 Tết - Lễ Tân Niên, cầu bình an cho Năm Mới: Vào lúc 8:00PM Thứ Ba, ngày 5 tháng 2 năm 2019.
-* Ban Thường Vụ và Ban Cố Vấn: Tiến hương Tân Niên Kỷ Hợi
-* Nhận Lộc Thánh: Giáo huấn của Đức Thánh Cha Phanxico trong Tông huấn Amoris Laetitia (Niềm vui         Tình yêu): Sau khi rước lễ (lúc trở về ghế ngồi)
+	* Ban Thường Vụ và Ban Cố Vấn: Tiến hương Tân Niên Kỷ Hợi
+	* Nhận Lộc Thánh: Giáo huấn của Đức Thánh Cha Phanxico trong Tông huấn Amoris Laetitia (Niềm vui Tình yêu): Sau khi rước lễ (lúc trở về ghế ngồi)
 * Phụ trách Thánh ca: Ca đoàn Seraphim
 *  Múa Lân Mừng Tết: Đoàn Múa Lân Giáo xứ
 * Thu dọn cuối Nhà Thờ: Ca đoàn Seraphim
