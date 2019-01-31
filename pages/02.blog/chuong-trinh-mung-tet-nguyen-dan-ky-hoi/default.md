@@ -36,19 +36,19 @@ Tân Niên Kỷ Hợi An Khang và Thánh Đức.
  
 **3/ Phụng vụ Tết: Tất cả các Thánh Lễ cử hành tại Nhà Thờ.**
  
-* Tạ ơn cuối năm Mậu Tuất (30 Tết):  Vào lúc 8:00PM,  ngày 4 tháng 2 năm 2019.
+* **Tạ ơn cuối năm Mậu Tuất (30 Tết)**:  Vào lúc 8:00PM,  ngày 4 tháng 2 năm 2019.
 	* Phụ trách Thánh ca: Ave Maria
 	* Thu dọn cuối Nhà Thờ: Liên Minh Thánh Tâm
-* Mồng 1 Tết - Lễ Tân Niên, cầu bình an cho Năm Mới: Vào lúc 8:00PM Thứ Ba, ngày 5 tháng 2 năm 2019.
+* **Mồng 1 Tết - Lễ Tân Niên, cầu bình an cho Năm Mới**: Vào lúc 8:00PM Thứ Ba, ngày 5 tháng 2 năm 2019.
 	* Ban Thường Vụ và Ban Cố Vấn: Tiến hương Tân Niên Kỷ Hợi
 	* Nhận Lộc Thánh: Giáo huấn của Đức Thánh Cha Phanxico trong Tông huấn Amoris Laetitia (Niềm vui Tình yêu): Sau khi rước lễ (lúc trở về ghế ngồi)
 	* Phụ trách Thánh ca: Ca đoàn Seraphim
 	*  Múa Lân Mừng Tết: Đoàn Múa Lân Giáo xứ
 	* Thu dọn cuối Nhà Thờ: Ca đoàn Seraphim
-* Mồng 2 Tết - Kính nhớ Tổ Tiên và Ông bà Cha mẹ: Vào lúc 8:00PM Thứ Tư, ngày 6 tháng 2 năm 2019 
+* **Mồng 2 Tết - Kính nhớ Tổ Tiên và Ông bà Cha mẹ**: Vào lúc 8:00PM Thứ Tư, ngày 6 tháng 2 năm 2019 
 	* Phụ trách Thánh ca: Ca đoàn Teresa
 	* Thu dọn cuối Nhà Thờ: Huynh Đoàn Đa Minh
-* Tất cả các ngày còn lại cử hành vào lúc 8:00AM
+* **Tất cả các ngày còn lại cử hành vào lúc 8:00AM**
  
 **4/ Giáo xứ Mừng Tết:** 
 * Vào lúc 10:30AM, Chúa Nhật ngày 10 tháng 2 năm 2019. Đức Cha Giáo Phận về thăm Giáo xứ và Mừng Tết (vẫn có Thánh Lễ lúc 8:00AM như thường lệ).
@@ -61,8 +61,7 @@ Tân Niên Kỷ Hợi An Khang và Thánh Đức.
 > Để cho không khí Tết Nguyên Đán Kỷ Hợi mang đậm nét văn hóa dân tộc: Trong các Thánh lễ mồng 1, mồng 2, và mồng 6 Tết (ngày Đức Cha về thăm và mừng Tết) quý bà, quý chị nên mặc áo dài truyền thống, và nếu quý ông, quý anh có khăn đống áo dài cũng nên mặc trong những ngày này
 
 --
-**Linh mục Gioan Baotixita Nghieu Nguyen, O.P.**
---
+**Linh mục Gioan Baotixita Nghieu Nguyen, O.P.**<br>
 **Chánh xứ**
 Văn phòng Giáo xứ
 Các Thánh Tử Đạo Viet Nam, Richmond VA
