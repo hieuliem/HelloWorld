@@ -51,7 +51,7 @@ Tân Niên Kỷ Hợi An Khang và Thánh Đức.
 * **Tất cả các ngày còn lại cử hành vào lúc 8:00AM**
  
 **4/ Giáo xứ Mừng Tết:** 
-* Vào lúc 10:30AM, Chúa Nhật ngày 10 tháng 2 năm 2019. Đức Cha Giáo Phận về thăm Giáo xứ và Mừng Tết (vẫn có Thánh Lễ lúc 8:00AM như thường lệ).
+> Vào lúc 10:30AM, Chúa Nhật ngày 10 tháng 2 năm 2019. Đức Cha Giáo Phận về thăm Giáo xứ và Mừng Tết (vẫn có Thánh Lễ lúc 8:00AM như thường lệ).
 * Chủ sự Thánh Lễ: Đức Cha Barry C. Knestout
 * Nghi Thức Tiến hương: Ban Tiến hương Giáo xứ
 * Trao giải thưởng MVP cho Việt Ngữ và Lì xi cho các em thiếu nhi: Đức Cha Giáo Phận
