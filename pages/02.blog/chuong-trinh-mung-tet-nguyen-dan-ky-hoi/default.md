@@ -10,11 +10,8 @@ body_classes: profile-page
 creator: admin
 ---
 
-Kính chúc: Quý cụ, quý bác và anh chị em
-Tân Niên Kỷ Hợi An Khang và Thánh Đức.
-
-  
-# CHƯƠNG TRÌNH  TẾT NGUYÊN ĐÁN KỶ HỢI
+**Kính chúc: Quý cụ, quý bác và anh chị em<br>
+Tân Niên Kỷ Hợi An Khang và Thánh Đức.**
 
 **1/ Thánh Lễ và Chầu Mình Thánh Chúa cuối Năm Mậu Tuất.**
 * Thứ Sáu (27 Tết), vào lúc 8:00PM (Tối) ngày 1/2/2019 
