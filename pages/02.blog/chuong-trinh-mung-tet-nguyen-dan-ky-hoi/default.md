@@ -58,7 +58,7 @@ Tân Niên Kỷ Hợi An Khang và Thánh Đức.
 * Ẩm thực Mừng Xuân: Các hội đoàn và phong trao trong Giáo xứ và Nhà Hàng Mê-Kông
 * Tiệc Mừng Xuân: Ngay sau Thánh Lễ
  
-> Để cho không khí Tết Nguyên Đán Kỷ Hợi mang đậm nét văn hóa dân tộc: Trong các Thánh lễ mồng 1, mồng 2, và mồng 6 Tết (ngày Đức Cha về thăm và mừng Tết) quý bà, quý chị nên mặc áo dài truyền thống, và nếu quý ông, quý anh có khăn đống áo dài cũng nên mặc trong những ngày này
+> Để cho không khí Tết Nguyên Đán Kỷ Hợi mang đậm nét văn hóa dân tộc: Trong các Thánh lễ mồng 1, mồng 2, và mồng 6 Tết (ngày Đức Cha về thăm và mừng Tết) quý bà, quý chị nên mặc áo dài truyền thống, và nếu quý ông, quý anh có khăn đống áo dài cũng nên mặc trong những ngày này <br>
 
 **Linh mục Gioan Baotixita Nghieu Nguyen, O.P.**<br>
 **Chánh xứ**
