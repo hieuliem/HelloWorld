@@ -37,8 +37,8 @@ Tân Niên Kỷ Hợi An Khang và Thánh Đức.
 2/ Phụng vụ Tết: Tất cả các Thánh Lễ cử hành tại Nhà Thờ.
  
 * Tạ ơn cuối năm Mậu Tuất (30 Tết):  Vào lúc 8:00PM,  ngày 4 tháng 2 năm 2019.
-* *Phụ trách Thánh ca: Ave Maria
-* *Thu dọn cuối Nhà Thờ: Liên Minh Thánh Tâm
+..*Phụ trách Thánh ca: Ave Maria
+..*Thu dọn cuối Nhà Thờ: Liên Minh Thánh Tâm
 * Mồng 1 Tết - Lễ Tân Niên, cầu bình an cho Năm Mới: Vào lúc 8:00PM Thứ Ba, ngày 5 tháng 2 năm 2019.
 * Ban Thường Vụ và Ban Cố Vấn: Tiến hương Tân Niên Kỷ Hợi
 * Nhận Lộc Thánh: Giáo huấn của Đức Thánh Cha Phanxico trong Tông huấn Amoris Laetitia (Niềm vui         Tình yêu): Sau khi rước lễ (lúc trở về ghế ngồi)
