@@ -17,11 +17,11 @@ Tân Niên Kỷ Hợi An Khang và Thánh Đức.
 > **CHƯƠNG TRÌNH  TẾT NGUYÊN ĐÁN KỶ HỢI** 
 
 **1/ Thánh Lễ và Chầu Mình Thánh Chúa cuối Năm Mậu Tuất.**
-<br>Thứ Sáu (27 Tết), vào lúc 8:00PM (Tối) ngày 1/2/2019 
-<br>Thứ Bẩy (28 Tết), vào lúc 8:00AM (Sáng) ngày 2/2/2019 
+* Thứ Sáu (27 Tết), vào lúc 8:00PM (Tối) ngày 1/2/2019 
+* Thứ Bẩy (28 Tết), vào lúc 8:00AM (Sáng) ngày 2/2/2019 
  
 **2/ Hội Chợ Tết (29 Tết): Chúa Nhật, ngày 3 tháng 2 năm 2019**
-<br>Hội Chợ Tết sẽ được tổ chức từ 9:00 Sáng (sau Lễ 1) đến 3:00 Chiều, Chúa Nhật ngày 3 tháng 2 năm 2019, tại Hội Trường Giáo xứ, gồm các gian hàng thức ăn của 8 phong trào và hội đoàn trong Giáo xứ: Thiếu Nhi Thánh Thể, Tông Đồ Fatima, Liên Minh Thánh Tâm, Các Bà Mẹ Công Giáo,  Huynh Đoàn, Trường Thánh Vinh Sơn Liêm, Ca đoàn Sêraphim và Ca đoàn Têrêsa. 
+> Hội Chợ Tết sẽ được tổ chức từ 9:00 Sáng (sau Lễ 1) đến 3:00 Chiều, Chúa Nhật ngày 3 tháng 2 năm 2019, tại Hội Trường Giáo xứ, gồm các gian hàng thức ăn của 8 phong trào và hội đoàn trong Giáo xứ: Thiếu Nhi Thánh Thể, Tông Đồ Fatima, Liên Minh Thánh Tâm, Các Bà Mẹ Công Giáo,  Huynh Đoàn, Trường Thánh Vinh Sơn Liêm, Ca đoàn Sêraphim và Ca đoàn Têrêsa. 
  
 **Để cho Hội Chợ Tết được tốt đẹp:**
 - Các Hội Đoàn nhận gian hàng và trang trí: Thứ Bảy ngày 2/2/2019: Lúc 10:00AM. 
