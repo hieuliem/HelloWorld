@@ -12,11 +12,9 @@ creator: admin
 
 Kính chúc: Quý cụ, quý bác và anh chị em
 Tân Niên Kỷ Hợi An Khang và Thánh Đức.
- 
-Linh mục Gioan Baotixita Nghieu Nguyen, O.P.
-Chánh xứ
+
   
-CHƯƠNG TRÌNH  TẾT NGUYÊN ĐÁN KỶ HỢI 
+> **CHƯƠNG TRÌNH  TẾT NGUYÊN ĐÁN KỶ HỢI** 
 
 1/ Thánh Lễ và Chầu Mình Thánh Chúa cuối Năm Mậu Tuất.
 Thứ Sáu (27 Tết), vào lúc 8:00PM (Tối) ngày 1/2/2019 
@@ -63,6 +61,7 @@ Tiệc Mừng Xuân: Ngay sau Thánh Lễ
 * * * Để cho không khí Tết Nguyên Đán Kỷ Hợi mang đậm nét văn hóa dân tộc: Trong các Thánh lễ mồng 1, mồng 2, và mồng 6 Tết (ngày Đức Cha về thăm và mừng Tết) quý bà, quý chị nên mặc áo dài truyền thống, và nếu quý ông, quý anh có khăn đống áo dài cũng nên mặc trong những ngày này * * * 
 
 + + +
- 
+**Linh mục Gioan Baotixita Nghieu Nguyen, O.P.**
+**Chánh xứ**
 Văn phòng Giáo xứ
 Các Thánh Tử Đạo Viet Nam, Richmond VA
