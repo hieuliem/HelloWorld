@@ -63,5 +63,5 @@ Tân Niên Kỷ Hợi An Khang và Thánh Đức.
 --
 **Linh mục Gioan Baotixita Nghieu Nguyen, O.P.**<br>
 **Chánh xứ**
-Văn phòng Giáo xứ
-Các Thánh Tử Đạo Viet Nam, Richmond VA
+<br>Văn phòng Giáo xứ
+<brCác Thánh Tử Đạo Viet Nam, Richmond VA
