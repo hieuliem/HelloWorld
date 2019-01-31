@@ -14,7 +14,7 @@ Kính chúc: Quý cụ, quý bác và anh chị em
 Tân Niên Kỷ Hợi An Khang và Thánh Đức.
 
   
-> **CHƯƠNG TRÌNH  TẾT NGUYÊN ĐÁN KỶ HỢI** 
+# CHƯƠNG TRÌNH  TẾT NGUYÊN ĐÁN KỶ HỢI
 
 **1/ Thánh Lễ và Chầu Mình Thánh Chúa cuối Năm Mậu Tuất.**
 * Thứ Sáu (27 Tết), vào lúc 8:00PM (Tối) ngày 1/2/2019 
