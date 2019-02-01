@@ -8,7 +8,7 @@ creator: admin
 		<div class="container text-center">
 			<div class="row">
 				<div class="col-md-8 ml-auto mr-auto text-center">
-					<h2 class="title year-motto">Năm Mục Vụ Gia Đình 2018</h2>
+					<h2 class="title year-motto">Năm Mục Vụ Gia Đình 2019</h2>
 					<h4>Lạy Chúa Giêsu, gia đình tín hữu là một Hội Thánh thu nhỏ được sai đi; xin cho chúng con biết đến với nhau, để chung chia niềm vui nỗi buồn, và cống hiến cho nhau sự sống đích thực của Chúa.  Amen.</h4>
 				</div>
 			</div>
