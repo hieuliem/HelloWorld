@@ -14,4 +14,4 @@ creator: admin
 ---
 
 ![Bishop Knestout](bisKnestout.jpg?classes=img-fluid)
-![Image link](/images/TET_Bishop_Knestout.jpg?sepia&link&display=text)
+![Image link](/images/TET_Bishop_Knestout.jpg?link&display=text)
