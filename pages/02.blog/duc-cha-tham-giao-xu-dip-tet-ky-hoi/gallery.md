@@ -8,6 +8,7 @@ taxonomy:
         - 'Huấn Thư'
         - photography
         - TET
+        - 'Tông Thư'
 body_classes: profile-page
 creator: admin
 ---
