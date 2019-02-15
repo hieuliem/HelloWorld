@@ -1,6 +1,5 @@
 ---
 title: 'Đức Cha Thăm Giáo Xứ Dịp Tết Kỷ Hợi'
-media_order: bisKnestout.jpg
 taxonomy:
     category:
         - blog
@@ -14,5 +13,5 @@ creator: admin
 ---
 
 **![Click Here for 8x10 print](/images/TET_Bishop_Knestout.jpg?link&display=text&classes=float-right)**
-![Bishop Knestout](bis-Knestout.jpg?classes=img-fluid)
+![Bishop Knestout](/images/TET_Bishop_Knestout.jpg?classes=img-fluid)
 <a href="#" style="text-align: center;">Download</a>
