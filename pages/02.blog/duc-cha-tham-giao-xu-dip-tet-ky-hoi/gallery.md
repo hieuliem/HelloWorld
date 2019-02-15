@@ -13,5 +13,6 @@ body_classes: profile-page
 creator: admin
 ---
 
+{: style="text-align:center"}
 **![Click Here for 8x10 print](/images/TET_Bishop_Knestout.jpg?link&display=text)**
 ![Bishop Knestout](bisKnestout.jpg?classes=img-fluid)
