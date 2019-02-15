@@ -6,7 +6,6 @@ taxonomy:
         - blog
     tag:
         - 'Tông Thư'
-        - 'Huấn Thư'
         - photography
         - TET
 body_classes: profile-page
