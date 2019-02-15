@@ -9,6 +9,7 @@ taxonomy:
         - 'Tông Thư'
         - photography
         - TET
+        - 'Huấn Thư'
 body_classes: profile-page
 creator: admin
 ---
