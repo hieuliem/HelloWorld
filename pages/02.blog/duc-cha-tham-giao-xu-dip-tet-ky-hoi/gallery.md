@@ -5,12 +5,12 @@ taxonomy:
     category:
         - blog
     tag:
+        - 'Tông Thư'
         - 'Huấn Thư'
         - photography
         - TET
-        - 'Tông Thư'
 body_classes: profile-page
 creator: admin
 ---
 
-![](bisKnestout.jpg)
+![](bisKnestout.jpg?classes=img-fluid)
