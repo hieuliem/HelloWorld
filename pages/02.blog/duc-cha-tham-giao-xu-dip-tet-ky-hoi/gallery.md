@@ -13,4 +13,4 @@ body_classes: profile-page
 creator: admin
 ---
 
-![](images/TET_Bishop_Knestout.jpg?classes=img-fluid)
+![](image://TET_Bishop_Knestout.jpg?classes=img-fluid)
