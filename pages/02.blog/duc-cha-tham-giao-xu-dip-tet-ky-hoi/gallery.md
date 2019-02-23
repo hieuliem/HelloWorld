@@ -17,4 +17,4 @@ creator: admin
 
 **<center><a href="/images/TET_Bishop_Knestout.jpg">Click Here for 8x10 print</a></center>**
 ![Bishop Knestout](/images/TET_Bishop_Knestout.jpg?classes=img-fluid&quality=50)
-![](TET_Bishop_Knestout.jpg&quality=50)
+![Thank you Letter](TET_Bishop_Knestout.jpg&quality=50)
