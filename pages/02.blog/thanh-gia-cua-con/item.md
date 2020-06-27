@@ -29,13 +29,13 @@ _____________________________________________________________
  
 Hãy đến đón nhận hồng ân Thiên Chúa ban tặng nơi Thánh Lễ và cùng đi với Giáo xứ trong hành trình Đức Tin.
  
-**1/ Ghi danh và đến tham dự Thánh Lễ**<br>
+**1/ Ghi danh và đến tham dự Thánh Lễ****<br>
 Để sắp xếp phù hợp số người tham dự mỗi Thánh Lễ và tránh đi những phiền phức về y tế sức khỏe có thể xảy ra, nên cộng đoàn cần ghi danh tại trang nhà: www.chungnhan.org hoặc  https://ghidanh.chungnhan.org<br><br>
-**Lưu ý: **<br>
+_Lưu ý:_ <br>
 (1) Mỗi Chúa Nhật đi tham dự Thánh Lễ: Đều phải ghi danh<br>
 (2) Những ai đã ghi danh nhưng thay đổi giờ tham dự Thánh Lễ: Cần ghi danh lại.<br>
 (3) Những ai đã ghi danh và muốn tham dự Thánh Lễ cuối tuần kế tiếp: Chỉ gặp ban hướng dẫn tại cuối Nhà Thờ, và ghi danh trực tiếp nơi đây, nghĩa là không cần vào trang nhà của Giáo xứ nữa. <br>
-(4) Ghế trong Nhà Thờ có chỗ dành cho các gia đình. Do đó, những gia đình nào muốn ngồi chung với nhau, xin báo cho ban hướng dẫn biết tại bàn tiếp đón.<br><br>
+(4) Ghế trong Nhà Thờ có chỗ dành cho các gia đình. Do đó, những gia đình nào muốn ngồi chung với nhau, xin báo cho ban hướng dẫn biết tại bàn tiếp đón.**<br><br>
  
 **2/ Thánh Lễ và Chầu Mình Thánh Chúa trực tuyến Thứ Sáu Đầu Tháng 7/2020**<br>
 Thánh lễ Thứ Sáu đầu tháng và Chầu Mình Thánh Chúa là một truyền thống tốt đẹp trong đời sống đức tin của Hội Thánh và hiện diện trong Giáo xứ nhiều năm. Vì đại dịch Covid-19, chúng ta đã tạm ngưng ba tháng vừa qua và hiện nay trong giai đoạn 2 vẫn còn nhiều giới hạn. Tuy nhiên, để giúp mọi người tiếp tục đến với Thánh Tâm Chúa Giêsu và đón nhận những ơn lành từ Tình yêu và Lòng Thương Xót của Ngài. Giáo xứ sẽ có THÁNH LỄ VÀ CHẦU MÌNH THÁNH CHÚA TRỰC TUYẾN vào lúc 8:00PM, ngày 3 tháng 7 năm 2020.<br>
