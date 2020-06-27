@@ -1,5 +1,5 @@
 ---
-title: Trực Tuyến
+title: 'Trực Tuyến'
 content:
     items: '@self.modular'
     order:

@@ -7,15 +7,14 @@ content:
         by: default
         dir: asc
 body_classes: landing-page
-creator: admin
+creator: hieuliem
 icon: '<i class="material-icons">home</i>'
 yt_channel: UCiySdBJvYT0DPgUe34Z-yzw
-api: AIzaSyBrRni2mwM41hhwOFSZfGtOQcLS-Ky8Jdg
 yt_video: 6U7h66ht5_U
 future_countdown: 'December 2, 2018 03:24:00'
 callout: ''
 callout_bg: notes.png
-showcase_title: 'Testing'
+showcase_title: Testing
 showcase_subtitle: 'Kỷ niệm 30 năm Các Thánh Tử Đạo Việt Nam<br>Kỷ niệm 19 năm Cung Hiến Thánh Đường<br>Bổn Mạng Giáo Xứ - Mùa Hè Hồng Ân'
 button_text: 'Live Stream'
 form:

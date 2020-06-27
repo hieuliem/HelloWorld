@@ -4,10 +4,10 @@ taxonomy:
     category:
         - blog
     tag:
-        - 'Huấn Thư'
         - TET
+        - 'Thông Tin Giáo Xứ'
 body_classes: profile-page
-creator: admin
+creator: hieuliem
 ---
 
 **Kính chúc: Quý cụ, quý bác và anh chị em<br>
