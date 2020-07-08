@@ -34,33 +34,32 @@ Theo bước chân của những người đã ra đi trước trong Đức Tin,
 Thân mến trong Chúa Kitô,
  
 **Đức Cha Barry C. Knestout<br>Giám mục Richmond**
-![](VincentPaul.png)
 
 <div class="row">
 	<div class="col-lg-1">&nbsp;</div>
 	<div class="col-lg-4">
-		<img class="img-fluid" src="VincentPaul.png"/>
+		<img class="img-fluid" src="/user/pages/02.blog/thu-dgm-barry-c-knestout-ky-niem-200-nam-thiet-lap-giao-phan/VincentPaul.png"/>
 	</div>
 	<div class="col-lg-7">
 **KINH 200 NĂM GIÁO PHẬN RICHMOND**<br>
 “Hãy Chiếu sáng như những vì sao” [Pl 2:15–16].
- (1820 - 2020)
+ (1820 - 2020)<br>
  
-Lạy Cha là Đấng dựng nên muôn tinh tú, /
-Ánh Sáng của Con Cha / đã dẫn dắt và củng cố công cuộc rao giảng Tin Mừng / 
-của Giáo phận chúng con, / từ Đông sang Tây, / qua hai thế kỷ. /
+Lạy Cha là Đấng dựng nên muôn tinh tú, /<br>
+Ánh Sáng của Con Cha / đã dẫn dắt và củng cố công cuộc rao giảng Tin Mừng / <br>
+của Giáo phận chúng con, / từ Đông sang Tây, / qua hai thế kỷ. /<br>
  
-Đang khi mong đợi ngày Quang lâm của Đức Kitô gần đến, /
+Đang khi mong đợi ngày Quang lâm của Đức Kitô gần đến, /<br>
 Xin xua tan mọi bóng đêm tội lỗi, /  để lòng mến của chúng con /
-ngày một thêm dồi dào; / và hơn bao giờ hết, /
-chúng con mạnh dạn rao giảng Lời Chúa / mà không hề sợ hãi. /
+ngày một thêm dồi dào; / và hơn bao giờ hết, /<br>
+chúng con mạnh dạn rao giảng Lời Chúa / mà không hề sợ hãi. /<br>
  
-Xin cho chúng con làm sáng tỏ Lời ban sự sống /
-và chiếu sáng lên / như những vì sao trong thế giới hôm nay.
+Xin cho chúng con làm sáng tỏ Lời ban sự sống /<br>
+và chiếu sáng lên / như những vì sao trong thế giới hôm nay.<br>
  
-Chúng con cầu xin, / nhờ Đức Giêsu Kitô, Con Chúa, là Thiên Chúa, /
-và là Chúa chúng con, / Người hằng sống và hiển trị cùng Chúa, /
-hợp nhất với Chúa Thánh Thần đến muôn thuở muôn đời. / Amen.
+Chúng con cầu xin, / nhờ Đức Giêsu Kitô, Con Chúa, là Thiên Chúa, /<br>
+và là Chúa chúng con, / Người hằng sống và hiển trị cùng Chúa, /<br>
+hợp nhất với Chúa Thánh Thần đến muôn thuở muôn đời. / Amen.<br>
  
 (Cộng đoàn sẽ đọc sau khi rước lễ trong các Thánh Lễ cuối tuần này)
     </div>
