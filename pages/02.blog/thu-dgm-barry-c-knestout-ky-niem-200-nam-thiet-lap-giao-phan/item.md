@@ -34,9 +34,13 @@ Theo bước chân của những người đã ra đi trước trong Đức Tin,
 Thân mến trong Chúa Kitô,
  
 **Đức Cha Barry C. Knestout<br>Giám mục Richmond**
-
-![](VincentPaul.png)
-
+<div class="row">
+	<div class="col-lg-1">&nbsp;</div>
+	<div class="col-lg-4">
+        ![](VincentPaul.png?class=img-fluid)
+		<img class="img-fluid" src="user/pages/02.blog/bishops-letter/Official-Bishop-Knestout-Portrait-Small-200x300.png"/>
+	</div>
+	<div class="col-lg-7">
 **KINH 200 NĂM GIÁO PHẬN RICHMOND**<br>
 “Hãy Chiếu sáng như những vì sao” [Pl 2:15–16].
  (1820 - 2020)
@@ -58,6 +62,8 @@ và là Chúa chúng con, / Người hằng sống và hiển trị cùng Chúa,
 hợp nhất với Chúa Thánh Thần đến muôn thuở muôn đời. / Amen.
  
 (Cộng đoàn sẽ đọc sau khi rước lễ trong các Thánh Lễ cuối tuần này)
+    </div>
+</div>
 
 Ghi danh và đến tham dự Thánh Lễ mừng Kỷ niệm 200 Năm thiết lập Giáo phận Richmond tại Giáo xứ
  
