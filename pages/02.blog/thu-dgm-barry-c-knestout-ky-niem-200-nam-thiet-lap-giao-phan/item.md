@@ -46,21 +46,21 @@ Thân mến trong Chúa Kitô,
  
 Lạy Cha là Đấng dựng nên muôn tinh tú, /<br>
 Ánh Sáng của Con Cha / đã dẫn dắt và củng cố công cuộc rao giảng Tin Mừng / <br>
-của Giáo phận chúng con, / từ Đông sang Tây, / qua hai thế kỷ. /<br>
+của Giáo phận chúng con, / từ Đông sang Tây, / qua hai thế kỷ. /<br><br>
  
 Đang khi mong đợi ngày Quang lâm của Đức Kitô gần đến, /<br>
 Xin xua tan mọi bóng đêm tội lỗi, /  để lòng mến của chúng con /
 ngày một thêm dồi dào; / và hơn bao giờ hết, /<br>
-chúng con mạnh dạn rao giảng Lời Chúa / mà không hề sợ hãi. /<br>
+chúng con mạnh dạn rao giảng Lời Chúa / mà không hề sợ hãi. /<br><br>
  
 Xin cho chúng con làm sáng tỏ Lời ban sự sống /<br>
-và chiếu sáng lên / như những vì sao trong thế giới hôm nay.<br>
+và chiếu sáng lên / như những vì sao trong thế giới hôm nay.<br><br>
  
 Chúng con cầu xin, / nhờ Đức Giêsu Kitô, Con Chúa, là Thiên Chúa, /<br>
 và là Chúa chúng con, / Người hằng sống và hiển trị cùng Chúa, /<br>
-hợp nhất với Chúa Thánh Thần đến muôn thuở muôn đời. / Amen.<br>
+hợp nhất với Chúa Thánh Thần đến muôn thuở muôn đời. / Amen.<br><br>
  
-(Cộng đoàn sẽ đọc sau khi rước lễ trong các Thánh Lễ cuối tuần này)
+(Cộng đoàn sẽ đọc sau khi rước lễ trong các Thánh Lễ cuối tuần này)<br>
     </div>
 </div>
 
