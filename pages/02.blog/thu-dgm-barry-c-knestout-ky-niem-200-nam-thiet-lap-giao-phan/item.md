@@ -13,7 +13,7 @@ creator: hieuliem
 “Anh em phải chiếu sáng như những vì sao trên vòm trời, 
 là làm sáng tỏ Lời ban sự sống.” (Phil 2: 15-16)
 
-Ngày 11 tháng 7 năm 2020
+_Ngày 11 tháng 7 năm 2020_
  
 Anh chị em tín hữu trong Giáo phận thân mến,
  
@@ -33,12 +33,11 @@ Theo bước chân của những người đã ra đi trước trong Đức Tin,
  
 Thân mến trong Chúa Kitô,
  
-Đức Cha Barry C. Knestout
-Giám mục Richmond
+**Đức Cha Barry C. Knestout<br>Giám mục Richmond**
 
 ![](VincentPaul.png)
 
-KINH 200 NĂM GIÁO PHẬN RICHMOND
+**KINH 200 NĂM GIÁO PHẬN RICHMOND**<br>
 “Hãy Chiếu sáng như những vì sao” [Pl 2:15–16].
  (1820 - 2020)
  
@@ -62,14 +61,15 @@ hợp nhất với Chúa Thánh Thần đến muôn thuở muôn đời. / Amen.
 
 Ghi danh và đến tham dự Thánh Lễ mừng Kỷ niệm 200 Năm thiết lập Giáo phận Richmond tại Giáo xứ
  
-Theo hướng dẫn của Đức Giám mục Barry C. Knestout, cuối tuần này Giáo xứ cử hành Thánh Lễ Kỷ niệm 200 Năm thiết lập Giáo phận với 3 Thánh Lễ như thường lệ: Thứ Bẩy 8:00PM; Chúa Nhật 8:00AM và 10:30AM. Để sắp xếp phù hợp số người tham dự mỗi Thánh Lễ và tránh đi những phiền phức về y tế sức khỏe có thể xảy ra, nên cộng đoàn cần ghi danh tại trang nhà: www.chungnhan,org hoặc  https://ghidanh.chungnhan.org
-Lưu ý: 
-(1) Mỗi Chúa Nhật đi tham dự Thánh Lễ: Đều phải ghi danh
-(2) Những ai đã ghi danh nhưng thay đổi giờ tham dự Thánh Lễ: Cần ghi danh lại.
-(3) Những ai đã ghi danh và muốn tham dự Thánh Lễ cuối tuần kế tiếp: Chỉ gặp ban hướng dẫn tại cuối Nhà Thờ, và ghi danh trực tiếp nơi đây, nghĩa là không cần vào trang nhà của Giáo xứ nữa. 
-(4) Ghế trong Nhà Thờ có chỗ dành cho các gia đình. Do đó, những gia đình nào muốn ngồi chung với nhau, xin báo cho ban hướng dẫn biết tại bàn tiếp đón.
+Theo hướng dẫn của Đức Giám mục Barry C. Knestout, cuối tuần này Giáo xứ cử hành Thánh Lễ Kỷ niệm 200 Năm thiết lập Giáo phận với 3 Thánh Lễ như thường lệ: Thứ Bẩy 8:00PM; Chúa Nhật 8:00AM và 10:30AM. Để sắp xếp phù hợp số người tham dự mỗi Thánh Lễ và tránh đi những phiền phức về y tế sức khỏe có thể xảy ra, nên cộng đoàn cần ghi danh tại trang nhà: www.chungnhan.org hoặc  https://ghidanh.chungnhan.org
+<br>
+**Lưu ý**: <br>
+(1) Mỗi Chúa Nhật đi tham dự Thánh Lễ: Đều phải ghi danh<br>
+(2) Những ai đã ghi danh nhưng thay đổi giờ tham dự Thánh Lễ: Cần ghi danh lại.<br>
+(3) Những ai đã ghi danh và muốn tham dự Thánh Lễ cuối tuần kế tiếp: Chỉ gặp ban hướng dẫn tại cuối Nhà Thờ, và ghi danh trực tiếp nơi đây, nghĩa là không cần vào trang nhà của Giáo xứ nữa. <br>
+(4) Ghế trong Nhà Thờ có chỗ dành cho các gia đình. Do đó, những gia đình nào muốn ngồi chung với nhau, xin báo cho ban hướng dẫn biết tại bàn tiếp đón.<br>
  
 + + +
  
-Văn phòng Giáo xứ
+Văn phòng Giáo xứ<br>
 Các Thánh Tử Đạo Việt Nam, Richmond VA    
