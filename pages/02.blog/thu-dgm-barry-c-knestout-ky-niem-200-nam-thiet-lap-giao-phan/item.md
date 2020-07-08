@@ -40,7 +40,7 @@ Thân mến trong Chúa Kitô,
 		<img class="img-fluid" src="user/pages/02.blog/thu-dgm-barry-c-knestout-ky-niem-200-nam-thiet-lap-giao-phan/VincentPaul.png"/>
 	</div>
 	<div class="col-lg-8">
-**KINH 200 NĂM GIÁO PHẬN RICHMOND**<br>
+<strong>KINH 200 NĂM GIÁO PHẬN RICHMOND**</strong><br>
 “Hãy Chiếu sáng như những vì sao” [Pl 2:15–16].
  (1820 - 2020)<br>
  
@@ -49,7 +49,7 @@ Lạy Cha là Đấng dựng nên muôn tinh tú, /<br>
 của Giáo phận chúng con, / từ Đông sang Tây, / qua hai thế kỷ. /<br><br>
  
 Đang khi mong đợi ngày Quang lâm của Đức Kitô gần đến, /<br>
-Xin xua tan mọi bóng đêm tội lỗi, /  để lòng mến của chúng con /
+Xin xua tan mọi bóng đêm tội lỗi, /  để lòng mến của chúng con /<br>
 ngày một thêm dồi dào; / và hơn bao giờ hết, /<br>
 chúng con mạnh dạn rao giảng Lời Chúa / mà không hề sợ hãi. /<br><br>
  
