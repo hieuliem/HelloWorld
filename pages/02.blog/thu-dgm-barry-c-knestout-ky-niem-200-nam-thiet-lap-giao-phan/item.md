@@ -38,7 +38,7 @@ Thân mến trong Chúa Kitô,
 <div class="row">
 	<div class="col-lg-1">&nbsp;</div>
 	<div class="col-lg-4">
-		<img class="img-fluid" src="/user/pages/02.blog/thu-dgm-barry-c-knestout-ky-niem-200-nam-thiet-lap-giao-phan/VincentPaul.png"/>
+		<img class="img-fluid" src="user/pages/02.blog/thu-dgm-barry-c-knestout-ky-niem-200-nam-thiet-lap-giao-phan/VincentPaul.png"/>
 	</div>
 	<div class="col-lg-7">
 **KINH 200 NĂM GIÁO PHẬN RICHMOND**<br>
