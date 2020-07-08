@@ -34,6 +34,8 @@ Theo bước chân của những người đã ra đi trước trong Đức Tin,
 Thân mến trong Chúa Kitô,
  
 **Đức Cha Barry C. Knestout<br>Giám mục Richmond**
+![](VincentPaul.png)
+
 <div class="row">
 	<div class="col-lg-1">&nbsp;</div>
 	<div class="col-lg-4">
