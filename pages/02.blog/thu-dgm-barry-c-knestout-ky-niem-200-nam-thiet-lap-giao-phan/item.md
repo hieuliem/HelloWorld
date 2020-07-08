@@ -36,11 +36,10 @@ Thân mến trong Chúa Kitô,
 **Đức Cha Barry C. Knestout<br>Giám mục Richmond**
 
 <div class="row">
-	<div class="col-lg-1">&nbsp;</div>
 	<div class="col-lg-4">
 		<img class="img-fluid" src="user/pages/02.blog/thu-dgm-barry-c-knestout-ky-niem-200-nam-thiet-lap-giao-phan/VincentPaul.png"/>
 	</div>
-	<div class="col-lg-7">
+	<div class="col-lg-8">
 **KINH 200 NĂM GIÁO PHẬN RICHMOND**<br>
 “Hãy Chiếu sáng như những vì sao” [Pl 2:15–16].
  (1820 - 2020)<br>
