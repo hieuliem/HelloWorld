@@ -1,5 +1,6 @@
 ---
 title: 'Thư ĐGM Barry C. Knestout Kỷ Niệm 200 Năm Thiết Lập Giáo Phận'
+media_order: 'DioceseLogo.png,VincentPaul.png'
 taxonomy:
     category:
         - blog
@@ -35,6 +36,7 @@ Thân mến trong Chúa Kitô,
 Đức Cha Barry C. Knestout
 Giám mục Richmond
 
+![](VincentPaul.png)
 
 KINH 200 NĂM GIÁO PHẬN RICHMOND
 “Hãy Chiếu sáng như những vì sao” [Pl 2:15–16].
