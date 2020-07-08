@@ -37,8 +37,7 @@ Thân mến trong Chúa Kitô,
 <div class="row">
 	<div class="col-lg-1">&nbsp;</div>
 	<div class="col-lg-4">
-        ![](VincentPaul.png?class=img-fluid)
-		<img class="img-fluid" src="user/pages/02.blog/bishops-letter/Official-Bishop-Knestout-Portrait-Small-200x300.png"/>
+		<img class="img-fluid" src="VincentPaul.png"/>
 	</div>
 	<div class="col-lg-7">
 **KINH 200 NĂM GIÁO PHẬN RICHMOND**<br>
