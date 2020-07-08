@@ -58,13 +58,13 @@ và chiếu sáng lên / như những vì sao trong thế giới hôm nay.<br><b
  
 Chúng con cầu xin, / nhờ Đức Giêsu Kitô, Con Chúa, là Thiên Chúa, /<br>
 và là Chúa chúng con, / Người hằng sống và hiển trị cùng Chúa, /<br>
-hợp nhất với Chúa Thánh Thần đến muôn thuở muôn đời. / Amen.<br><br>
+hợp nhất với Chúa Thánh Thần đến muôn thuở muôn đời. / Amen.<br>
  
 (Cộng đoàn sẽ đọc sau khi rước lễ trong các Thánh Lễ cuối tuần này)<br>
     </div>
 </div>
-
-Ghi danh và đến tham dự Thánh Lễ mừng Kỷ niệm 200 Năm thiết lập Giáo phận Richmond tại Giáo xứ
+<br>
+**Ghi danh và đến tham dự Thánh Lễ mừng Kỷ niệm 200 Năm thiết lập Giáo phận Richmond tại Giáo xứ**
  
 Theo hướng dẫn của Đức Giám mục Barry C. Knestout, cuối tuần này Giáo xứ cử hành Thánh Lễ Kỷ niệm 200 Năm thiết lập Giáo phận với 3 Thánh Lễ như thường lệ: Thứ Bẩy 8:00PM; Chúa Nhật 8:00AM và 10:30AM. Để sắp xếp phù hợp số người tham dự mỗi Thánh Lễ và tránh đi những phiền phức về y tế sức khỏe có thể xảy ra, nên cộng đoàn cần ghi danh tại trang nhà: www.chungnhan.org hoặc  https://ghidanh.chungnhan.org
 <br>
