@@ -4,7 +4,7 @@ body_classes: profile-page
 slug: tntt
 visible: false
 creator: hieuliem
-description: 'ÐƠN XIN GIA NHẬP ĐOÀN ĐOÀN ĐON BOSCÔ – LIÊN ĐOÀN ĐAMINH SAVIÔ 2020-2021'
+description: 'ÐƠN XIN GIA NHẬP ĐOÀN ĐON BOSCÔ – LIÊN ĐOÀN ĐAMINH SAVIÔ 2020-2021'
 fb:
     'og:title': 'TNTT Regitration Form 2020-2021'
     'og:url': 'https://chungnhan.org/tntt-registration-form'
