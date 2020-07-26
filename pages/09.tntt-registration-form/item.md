@@ -6,7 +6,6 @@ visible: false
 routes:
     aliases:
         - tntt/registration
-        - tntt-registration-form
 creator: hieuliem
 content:
     items: '@self.modular'
