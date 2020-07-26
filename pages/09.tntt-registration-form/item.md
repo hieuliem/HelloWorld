@@ -7,7 +7,7 @@ creator: hieuliem
 fb:
     'og:title': 'TNTT Regitration Form 2020-2021'
     'og:url': 'https://chungnhan.org/tntt-registration-form'
-    'og:image': null
+    'og:image': images/dangTG_c.jpg
 content:
     items: '@self.modular'
     order:
