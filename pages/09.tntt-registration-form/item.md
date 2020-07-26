@@ -4,6 +4,7 @@ body_classes: profile-page
 slug: tntt
 visible: false
 creator: hieuliem
+description: 'ÐƠN XIN GIA NHẬP ĐOÀN 2020-2021'
 fb:
     'og:title': 'TNTT Regitration Form 2020-2021'
     'og:url': 'https://chungnhan.org/tntt-registration-form'
