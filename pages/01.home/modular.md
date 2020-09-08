@@ -8,7 +8,7 @@ content:
         dir: asc
 body_classes: landing-page
 creator: hieuliem
-api: AIzaSyBrRni2mwM41hhwOFSZfGtOQcLS-Ky8Jdg
+api_disabled: AIzaSyBrRni2mwM41hhwOFSZfGtOQcLS-Ky8Jdg
 icon: '<i class="material-icons">home</i>'
 yt_channel: UCiySdBJvYT0DPgUe34Z-yzw
 yt_video: 6U7h66ht5_U
