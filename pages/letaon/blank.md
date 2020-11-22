@@ -1,7 +1,8 @@
 ---
 title: 'Lễ Tạ Ơn'
 body_classes: profile-page
-creator: admin
+redirect: vsl.chungnhan.org
+creator: hieuliem
 ---
 
 hi
